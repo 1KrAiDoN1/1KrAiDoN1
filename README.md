@@ -7,7 +7,7 @@
 ### Hey, I'm Pavel, 18 y.o. Beginner Backend developer on Golang.
 
 ### 🎓 Education
-- **Bachelor's degree in Computer Science** at [Nust Misis](https://en.misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/informatikaivt/intellektsistem/) (*2024-Present*)
+- **Bachelor's degree in Computer Science** at [Nust Misis](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/informatikaivt/) (*2024-Present*)
 
 ###
 <div align="left">
@@ -18,7 +18,7 @@
 ###
 
 ### 💻 My stack and tools:
-[![My Skills](https://skillicons.dev/icons?i=go,docker,postgresql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker,postman,postgresql,mysql,github,bash,)](https://skillicons.dev)
 
 <h3 align="left">
 📫  Сommunication:
