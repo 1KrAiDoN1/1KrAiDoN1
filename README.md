@@ -11,7 +11,7 @@
 
 ###
 ### 💻 My stack and tools:
-[![My Skills](https://skillicons.dev/icons?i=go,docker,postman,postgresql,mysql,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker,postgresql,mysql,redis,postman,linux,github)](https://skillicons.dev)
 
 
 ###
