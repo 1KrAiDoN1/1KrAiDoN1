@@ -11,7 +11,7 @@
 
 ###
 ### 💻 My stack and tools:
-[![My Skills](https://skillicons.dev/icons?i=go,docker,kafka,postgresql,mysql,redis,postman,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker,kafka,postman,prometheus,git,rabbitmq,grafana,postgresql,mysql,redis,linux)](https://skillicons.dev)
 
 ### 📈 Leetcode Activity
 
