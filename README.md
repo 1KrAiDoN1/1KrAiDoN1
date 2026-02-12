@@ -13,6 +13,9 @@
 ### 💻 My stack and tools:
 [![My Skills](https://skillicons.dev/icons?i=go,docker,kafka,postgresql,mysql,redis,postman,linux,git)](https://skillicons.dev)
 
+### 📈 Leetcode Activity
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/1KrAiDoN1?theme=dark&font=monospace&ext=contest)
 
 ###
 <div align="left">
