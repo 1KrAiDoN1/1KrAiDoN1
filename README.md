@@ -19,8 +19,13 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1KrAiDoN1&show_icons=true&title_color=4287f5&icon_color=#4287f5&text_color=525252&bg_color=FFFFFF"  />
+  <a href="https://github.com/1KrAiDoN">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=1KrAiDoN1&theme=high-contrast&hide_border=true&area=true" width="700" height="350" alt="Pavel's Activity Graph">
+  </a>
 </div>
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=1KrAiDoN1&show_icons=true&title_color=4287f5&icon_color=#4287f5&text_color=525252&bg_color=FFFFFF"  />
+</div> -->
 
 ### 📫 Communication:
 
